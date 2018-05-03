@@ -1,0 +1,56 @@
+1. The crime rate per capita is: 98.7
+
+2. The three most common crimes are:
+CRIMINAL DAMAGE    29027
+BATTERY            49200
+THEFT              64221
+
+The three least common crimes are:
+NON-CRIMINAL (SUBJECT SPECIFIED)     2
+HUMAN TRAFFICKING                    8
+PUBLIC INDECENCY                    10
+
+
+3. A List of crimes and their likelihood to result in arrest NON-CRIMINAL                         0.027027
+DECEPTIVE PRACTICE                   0.041909
+BURGLARY                             0.044509
+CRIM SEXUAL ASSAULT                  0.051572
+CRIMINAL DAMAGE                      0.059703
+ROBBERY                              0.074754
+MOTOR VEHICLE THEFT                  0.077866
+INTIMIDATION                         0.079470
+ARSON                                0.083146
+KIDNAPPING                           0.084211
+THEFT                                0.099843
+STALKING                             0.118919
+HUMAN TRAFFICKING                    0.125000
+OFFENSE INVOLVING CHILDREN           0.135669
+SEX OFFENSE                          0.173252
+ASSAULT                              0.178721
+BATTERY                              0.203435
+HOMICIDE                             0.207154
+OTHER OFFENSE                        0.216995
+NON-CRIMINAL (SUBJECT SPECIFIED)     0.500000
+CRIMINAL TRESPASS                    0.589254
+OTHER NARCOTIC VIOLATION             0.636364
+PUBLIC PEACE VIOLATION               0.682031
+WEAPONS VIOLATION                    0.783472
+OBSCENITY                            0.827586
+INTERFERENCE WITH PUBLIC OFFICER     0.948339
+CONCEALED CARRY LICENSE VIOLATION    0.956522
+NARCOTICS                            0.999568
+PROSTITUTION                         1.000000
+PUBLIC INDECENCY                     1.000000
+GAMBLING                             1.000000
+LIQUOR LAW VIOLATION                 1.000000
+
+The crimes most likely to result in arrest: Prostitution, Public Indecency, Gambling, Liquor Law Violation
+
+4. Three crimes that occur at least 10000 times that are most likely to result in arrest:
+WEAPONS VIOLATION                   0.783472
+INTERFERENCE WITH PUBLIC OFFICER    0.948339
+NARCOTICS                           0.999568
+
+5. The community with the Most Homicides is Austin (community number# then homicide count): 25    81
+
+6. Proportion of crimes involving a weapon 0.08920518390890704
